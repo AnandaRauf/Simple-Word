@@ -1,0 +1,13 @@
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\bin\Debug\Tugas_Uas_Aurel_No1.exe.config
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\bin\Debug\Tugas_Uas_Aurel_No1.exe
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\bin\Debug\Tugas_Uas_Aurel_No1.pdb
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\bin\Debug\Tugas_Uas_Aurel_No1.xml
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.No2.resources
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.No1.resources
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.Resources.resources
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.No3.resources
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel.vbproj.GenerateResource.cache
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel.vbproj.CoreCompileInputs.cache
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.exe
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.xml
+C:\Users\Diar\source\repos\Tugas_Uas_Aurel_No1\Tugas_Uas_Aurel_No1\obj\Debug\Tugas_Uas_Aurel_No1.pdb

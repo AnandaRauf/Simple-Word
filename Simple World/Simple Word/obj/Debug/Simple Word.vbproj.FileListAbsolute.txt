@@ -1,0 +1,11 @@
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\bin\Debug\Tugas_Uas_Aurel_No1.exe.config
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\bin\Debug\Tugas_Uas_Aurel_No1.exe
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\bin\Debug\Tugas_Uas_Aurel_No1.pdb
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\bin\Debug\Tugas_Uas_Aurel_No1.xml
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Tugas_Uas_Aurel_No1.No1.resources
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Tugas_Uas_Aurel_No1.Resources.resources
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Simple Word.vbproj.GenerateResource.cache
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Simple Word.vbproj.CoreCompileInputs.cache
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Tugas_Uas_Aurel_No1.exe
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Tugas_Uas_Aurel_No1.xml
+D:\Simple Word\Tugas_Contoh_Uas_Aurel\Simple Word\obj\Debug\Tugas_Uas_Aurel_No1.pdb
